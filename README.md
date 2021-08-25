@@ -1,4 +1,3 @@
-# team-6-project-landing-page
 ## Documento para agregar informacion a la pagina
 
 *Sintaxis: (Formato Markdown)*
@@ -15,3 +14,4 @@
 
 #### Nota: 
 - **No utilizar la branch `main`**
+--------------------------------------------
