@@ -1,3 +1,7 @@
+# <Ana Belen Mantilla>
+  ## Presentacion:
+  <Estudiante de pregrado de la carrera de Ingeniería Biomédica con miras a mejorar la calidad de vida de las personas mediante el avance de la tecnología. Me inclino hacia las ramas de Ingeniería Clínica y Biomecánica y Rehabilitación, ya que considero que mi fuerta radica en la creatividad, comprensión e interés por la investigación.>
+
 - ¿Qué es?
 
 Es una enfermedad autosómica recesiva (se hereda mediante dos copias mutadas del gen CFTR de cada padre) que implica la acumulación de moco muy espeso y pegajoso que obstruye algunos órganos, ya sea en el sistema respiratorio, digestivo o reproductor.
