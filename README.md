@@ -13,3 +13,5 @@
 3. En la misma terminal `git push` 
 4. Listo ya son hackers/programadores profesionales 🎉
 
+#### Nota: 
+- **No utilizar la branch `main`**
