@@ -9,7 +9,7 @@ foto:https://www.cfsource.com/sites/default/files/inline-images/Parent-Child%20C
 Ocurre una mutación en el gen CTFR que ocasiona que las células epiteliales fabriquen una proteína defectuosa (RTFQ), la cual impide que se regule la forma en que el cloruro se transporta a través de las membranas celulares. Es así como ocurre un cambio en el equilibrio del agua y la sal, quienes son los encargados de crear una fina capa de líquido y moco que recubre el interior de los órganos. Por lo cual, ya no actúa como una sustancia resbaladiza, sino tapan los tubos, conductos y pasajes. Esto genera que los órganos se tamponen, ya que el moco se espesa mucho y, sumado a los gérmenes retenidos, causa una infección, inflamación y cicatrices en el interior de ciertos órganos. 
 
 
-¿Qué ocasiona en cada órgano?
+- ¿Qué ocasiona en cada órgano?
 
 Páncreas: Tampona el canal que lleva las enzimas digestivas.
 
