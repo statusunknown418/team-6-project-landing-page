@@ -1,5 +1,5 @@
 # Posibles complicaciones:
-## Complicaciones del sistema respiratorio
+## Complicaciones en el sistema respiratorio
 * Pólipos nasales: Se estima que aproximadamente el 19% de niños menores de 6 años y el 45% de los adultos con fibrosis quística presentan pólipos nasales. Un pólipo nasal es un crecimiento en la nariz lleno de fluido. o mucosa que bloquea el lugar por dónde los senos nasales drenan hacia la nariz. 
 * Bronquiectasia: Presencia de daño y tamaño anormal en los bronquios.
   * Dificultad en la entrada y salida del aire de los pulmones 
